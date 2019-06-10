@@ -16,3 +16,5 @@ This project is open-sourced software licensed under the [MIT license](https://o
 [Laravel](https://laravel.com/)
 
 [Lighthouse](https://lighthouse-php.com/)
+
+Credits: https://github.com/marcospaegle/graphql-api
